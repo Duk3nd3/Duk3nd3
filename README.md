@@ -7,7 +7,7 @@ const Duk3nd3 = {
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["bootstrap", "sass"]
+            css: ["bootstrap", "sass", "Materialize"]
         },
         backEnd: {
             databases: ["MySql"], ["Firebase"]
@@ -34,12 +34,20 @@ const Duk3nd3 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="10%" align="center">
+        <span>Materialize</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/materialize.svg">
+      </td>
+      <td width="10%" align="center">
         <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="10%" align="center">
         <span>REACT</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="10%" align="center">
+        <span>NodeJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="10%" align="center">
         <span>𝗝𝗮𝘃𝗮script</span><br><br><br>
