@@ -13,7 +13,7 @@ const Duk3nd3 = {
         },
         backEnd: {
             databases: ["MySql"], ["Firebase"]
-            engineV8: ["NodeJs"]
+            engine: ["NodeJs"]
         },
         tools: {
             codeEditor: ["Visual Studio Code"]
