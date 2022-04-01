@@ -52,6 +52,10 @@ const Duk3nd3 = {
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="10%" align="center">
+        <span>FIREBASE</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
     </tr>
   </tbody>
 </table>
