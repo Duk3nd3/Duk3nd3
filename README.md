@@ -6,11 +6,18 @@ const Duk3nd3 = {
     askMeAbout: ["web dev", "tech", "gaming"],
     technologies: {
         frontEnd: {
-            js: ["React"],
-            css: ["bootstrap", "sass", "Materialize"]
+            code: ["React"], ["Javascript"]
+            style: ["bootstrap", "sass", "Materialize", ["Css3"]
         },
         backEnd: {
             databases: ["MySql"], ["Firebase"]
+            engine V8: ["NodeJs"]
+        },
+        tools: {
+            ["Visual Studio Code"]
+        },
+        social media: {
+            lov3: ["GitHub"]
         }
     }
 };
