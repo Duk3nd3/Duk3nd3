@@ -16,7 +16,7 @@ const Duk3nd3 = {
             engineV8: ["NodeJs"]
         },
         tools: {
-            ["Visual Studio Code"]
+            codeEditor: ["Visual Studio Code"]
         },
         socialMedia: {
             luvIt: ["GitHub"]
