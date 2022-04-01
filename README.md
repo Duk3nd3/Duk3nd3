@@ -3,14 +3,14 @@
 ```javascript
 const Duk3nd3 = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
+    askMeAbout: ["web dev", "tech", "gaming"],
     technologies: {
         frontEnd: {
             js: ["React"],
             css: ["bootstrap", "sass"]
         },
-        backEnd: ["PHP"],
-        databases: ["MySql"],
+        backEnd: {
+            databases: ["MySql"], ["Firebase"]
     }
 };
 ```
