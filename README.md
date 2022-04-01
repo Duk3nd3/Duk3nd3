@@ -33,6 +33,10 @@ const Duk3nd3 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="10%" align="center">
+        <span>BOOTSTRAP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="10%" align="center">
         <span>REACT</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
