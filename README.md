@@ -33,7 +33,7 @@ const Duk3nd3 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="10%" align="center">
-        <span>BOOTSTRAP</span><br><br><br>
+        <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="10%" align="center">
@@ -48,12 +48,16 @@ const Duk3nd3 = {
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+       <td width="10%" align="center">
+        <span>𝗚𝗶𝘁hub</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+      </td>
       <td width="10%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="10%" align="center">
-        <span>FIREBASE</span><br><br><br>
+        <span>Firebase</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
     </tr>
