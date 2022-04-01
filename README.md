@@ -11,6 +11,7 @@ const Duk3nd3 = {
         },
         backEnd: {
             databases: ["MySql"], ["Firebase"]
+        }
     }
 };
 ```
