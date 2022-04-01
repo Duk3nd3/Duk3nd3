@@ -35,7 +35,7 @@ const Duk3nd3 = {
       </td>
       <td width="10%" align="center">
         <span>Materialize</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/materialize.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
       </td>
       <td width="10%" align="center">
         <span>Bootstrap</span><br><br><br>
