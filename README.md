@@ -2,8 +2,10 @@
 
 ```javascript
 const Duk3nd3 = {
+
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "gaming"],
+    
     technologies: {
         frontEnd: {
             code: ["React"], ["Javascript"]
@@ -11,13 +13,13 @@ const Duk3nd3 = {
         },
         backEnd: {
             databases: ["MySql"], ["Firebase"]
-            engine V8: ["NodeJs"]
+            engineV8: ["NodeJs"]
         },
         tools: {
             ["Visual Studio Code"]
         },
-        social media: {
-            lov3: ["GitHub"]
+        socialMedia: {
+            luvIt: ["GitHub"]
         }
     }
 };
