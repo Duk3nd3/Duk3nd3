@@ -3,23 +3,23 @@
 ```javascript
 const Duk3nd3 = {
 
-    pronouns: "He" | "Him",
+    Level: 40,
     askMeAbout: ["web dev", "tech", "gaming"],
     
     technologies: {
         frontEnd: {
             code: ["React"], ["Javascript"]
-            style: ["bootstrap", "sass", "Materialize", ["Css3"]
+            style: ["Bootstrap", "SASS", "Materialize", ["CSS3"]
         },
         backEnd: {
             databases: ["MySql"], ["Firebase"]
             environment: ["NodeJs"]
         },
         tools: {
-            codeEditor: ["Visual Studio Code"]
+            codeEditor: ["Visual Studio Code"], "Sublime"
         },
         socialMedia: {
-            luvIt: ["GitHub"]
+            just: ["GitHub"]
         }
     }
 };
