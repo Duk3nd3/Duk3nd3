@@ -78,6 +78,10 @@ const Duk3nd3 = {
         <span>Firebase</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
+       <td width="10%" align="center">
+        <span>Tailwindcss</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
     </tr>
   </tbody>
 </table>
