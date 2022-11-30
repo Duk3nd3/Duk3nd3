@@ -4,21 +4,21 @@
 const Duk3nd3 = {
 
     Level: 40,
-    askMeAbout: ["web dev", "tech", "front-end", "reactjs", "javascript" ,"gaming"],
+    askMeAbout: ["web dev", "tech", "frontend", "reactjs", "javascript" ,"gaming"],
     
     technologies: {
-        frontEnd: {
-            code: ["React"], ["Javascript"]
-            styles: ["Bootstrap", "SASS", "Materialize", "CSS3", "Styled Component", "Tailwindcss"]
+        frontend: {
+            code: ["React", "Javascript", "Remix-Run", "Vite"], 
+            styles: ["Bootstrap", "SASS", "Materialize", "CSS3", "Styled Component", "Tailwindcss"],
         },
-        backEnd: {
-            databases: ["Firebase"]
+        backend: {
+            databases: ["Firebase", "Cloudinary", "PostgreSQL", "MongoDB", "MySQL"],
         },
         tools: {
-            codeEditor: ["Visual Studio Code"],
+            codeEditor: ["Visual Studio Code", "Git Bash"],
         },
         socialMedia: {
-            just: ["GitHub", "LinkdIn"]
+            just: ["GitHub", "LinkedIn"],
         }
     }
 };
