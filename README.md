@@ -4,24 +4,25 @@
 const CyberSecEnthusiast = {
 
     Level: 41,
-    askMeAbout: ["cybersecurity", "ethical hacking", "penetration testing", "infosec", "crypto"],
+    askMeAbout: ["🔒 cybersecurity", "🎩 ethical hacking", "🔍 penetration testing", "🛡️ infosec", "🔐 crypto"],
     
     technologies: {
         programming: {
-            languages: ["Python", "JavaScript", "Bash"],
+            languages: ["🐍 Python", "🌐 JavaScript", "📜 Bash"],
         },
         securityTools: {
-            penetrationTesting: ["Metasploit", "Nmap", "Burp Suite", "OWASP Zap"],
-            cryptography: ["OpenSSL", "GPG"],
-            networkSecurity: ["Wireshark", "Snort"],
+            penetrationTesting: ["🚀 Metasploit", "🌌 Nmap", "🔧 Burp Suite", "🌐 OWASP Zap"],
+            cryptography: ["🔐 OpenSSL", "🔑 GPG"],
+            networkSecurity: ["📡 Wireshark", "🚨 Snort"],
         },
         frameworks: {
-            webAppSecurity: ["OWASP SAMM", "OWASP Top 10"],
+            webAppSecurity: ["🔒 OWASP SAMM", "🔝 OWASP Top 10"],
         },
-        operatingSystems: ["Kali Linux", "Parrot OS"],
-        versionControl: ["Git", "GitHub"],
+        operatingSystems: ["🐧 Kali Linux", "🦜 Parrot OS"],
+        versionControl: ["🌀 Git", "💻 GitHub"],
     }
 };
+
 ```
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
