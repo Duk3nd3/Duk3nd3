@@ -31,71 +31,55 @@ const CyberSecEnthusiast = {
     <tr valign="top">
       <td width="10%" align="center">
         <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
        <td width="10%" align="center">
         <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="10%" align="center">
-        <span>Bash</span><br><br><br>
+        <span>Bash</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
       </td>
       <td width="10%" align="center">
-        <span>Metasploit</span><br><br><br>
-        <img height="64px" src="https://www.metasploitunleashed.com/msfu/images/logo.png">
+        <span>Metasploit</span><br><br>
+        <img height="64px" src="https://img.icons8.com/color/96/metasploit.png">
       </td>
       <td width="10%" align="center">
-        <span>Nmap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nmap.svg">
+        <span>Nmap</span><br><br>
+        <img height="64px" src="https://github.com/bwks/vendor-icons-svg/blob/master/nmap-logo.svg">
       </td>
       <td width="10%" align="center">
-        <span>Burp Suite</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/burp.svg">
+        <span>Burp Suite</span><br>
+        <img height="64px" src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg">
       </td>
       <td width="10%" align="center">
-        <span>OWASP Zap</span><br><br><br>
-        <img height="64px" src="https://www.zaproxy.org/static/zap_logo.png">
+        <span>OpenSSL</span><br><br>
+        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5950/5950545.png">
       </td>
       <td width="10%" align="center">
-        <span>OpenSSL</span><br><br><br>
-        <img height="64px" src="https://www.openssl.org/plogo2.png">
-      </td>
-      <td width="10%" align="center">
-        <span>GPG</span><br><br><br>
-        <img height="64px" src="https://gnupg.org/ftp/gcrypt/gnupg/gnupg-icon.png">
-      </td>
-      <td width="10%" align="center">
-        <span>Wireshark</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wireshark.svg">
+        <span>Wireshark</span><br><br>
+        <img height="45px" src="https://github.com/bwks/vendor-icons-svg/blob/master/wireshark.svg">
       </td>
        <td width="10%" align="center">
-        <span>Snort</span><br><br><br>
-        <img height="64px" src="https://www.snort.org/images/snort-logo.png">
+        <span>Snort</span><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/374085/snort.svg">
       </td>
       <td width="10%" align="center">
-        <span>OWASP SAMM</span><br><br><br>
-        <img height="64px" src="https://owasp.org/www-project-samm/assets/images/logo-samm.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>OWASP Top 10</span><br><br><br>
-        <img height="64px" src="https://owasp.org/www-project-top-ten/assets/images/logo/owasp_logo_color.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>Kali Linux</span><br><br><br>
-        <img height="64px" src="https://www.kali.org/assets/kali-linux.svg">
+        <span>Kali Linux</span><br><br>
+        <img height="32px" src="https://ww2.freelogovectors.net/svg11/kali-logo-freelogovectors.net.svg">
       </td>
        <td width="10%" align="center">
-        <span>Parrot OS</span><br><br><br>
-        <img height="64px" src="https://www.parrotsec.org/logo_parrot/full_parrot2.svg">
+        <span>Parrot OS</span><br><br>
+        <img height="32px" src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrot-logo.svg">
       </td>
       <td width="10%" align="center">
-        <span>Git</span><br><br><br>
+        <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
        <td width="10%" align="center">
-        <span>GitHub</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+        <span>GitHub</span><br><br>
+        <img height="32px" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=256">
       </td>
     </tr>
   </tbody>
