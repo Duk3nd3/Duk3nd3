@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><em><b>About me</b></em>
 
 ```
 const CyberSecEnthusiast = {
@@ -8,8 +8,11 @@ const CyberSecEnthusiast = {
     
     technologies: {
         programming: {
-            languages: ["🐍 Python", "🌐 JavaScript", "📜 Bash"],
+            languages: ["🐍 Python", "🌐 JavaScript", "📜 Bash", "🗃️ SQL"],
         },
+        developmentTools: ["🔧 Postman", "🆚 Visual Studio Code", "📝 Sublime Text", "✒️ Vim"],
+        databases: ["🗃️ MySQL", "🗃️ MongoDB"],
+        databaseTools: ["🔧 Navicat"],
         securityTools: {
             penetrationTesting: ["🚀 Metasploit", "🌌 Nmap", "🔧 Burp Suite", "🌐 OWASP Zap"],
             cryptography: ["🔐 OpenSSL", "🔑 GPG"],
@@ -18,11 +21,10 @@ const CyberSecEnthusiast = {
         frameworks: {
             webAppSecurity: ["🔒 OWASP SAMM", "🔝 OWASP Top 10"],
         },
-        operatingSystems: ["🐧 Kali Linux", "🦜 Parrot OS"],
+        operatingSystems: ["🐧 Kali Linux", "🦜 Parrot OS", "🎩 Red Hat", "🪙 Ubuntu", "💻 Linux"],
         versionControl: ["🌀 Git", "💻 GitHub"],
     }
 };
-
 ```
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
@@ -43,8 +45,20 @@ const CyberSecEnthusiast = {
         <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
       </td>
       <td width="10%" align="center">
+        <span>MySQL</span><br><br>
+        <img height="64px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
+      </td>
+      <td width="10%" align="center">
+        <span>Postman</span><br><br>
+        <img height="64px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
+      </td>
+      <td width="10%" align="center">
         <span>Metasploit</span><br><br>
         <img height="64px" src="https://img.icons8.com/color/96/metasploit.png">
+      </td>
+      <td width="10%" align="center">
+        <span>Arch Linux</span><br>
+        <img height="64px" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png">
       </td>
       <td width="10%" align="center">
         <span>Nmap</span><br><br>
