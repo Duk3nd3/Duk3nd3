@@ -82,11 +82,11 @@ const CyberSecEnthusiast = {
       </td>
       <td width="10%" align="center">
         <span>Kali Linux</span><br><br>
-        <img height="32px" src="https://ww2.freelogovectors.net/svg11/kali-logo-freelogovectors.net.svg">
+        <img height="32px" src="https://cdn.freelogovectors.net/svg11/kali-logo-freelogovectors.net.svg">
       </td>
        <td width="10%" align="center">
         <span>Parrot OS</span><br><br>
-        <img height="32px" src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrot-logo.svg">
+        <img height="32px" src="https://img.icons8.com/?size=100&id=sA3Bx9WPvcNg&format=png&color=000000">
       </td>
       <td width="10%" align="center">
         <span>Git</span><br><br>
