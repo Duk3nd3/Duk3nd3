@@ -57,10 +57,6 @@ const CyberSecEnthusiast = {
         <img height="64px" src="https://img.icons8.com/color/96/metasploit.png">
       </td>
       <td width="10%" align="center">
-        <span>Arch Linux</span><br>
-        <img height="64px" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png">
-      </td>
-      <td width="10%" align="center">
         <span>Nmap</span><br><br>
         <img height="64px" src="https://github.com/bwks/vendor-icons-svg/blob/master/nmap-logo.svg">
       </td>
